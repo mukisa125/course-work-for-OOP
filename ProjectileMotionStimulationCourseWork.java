@@ -2,14 +2,15 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package com.mycompany.projectilemotionstimulationcoursework;
-import java.util.Scanner;
+package com.mycompany.java_projectile_motion_simulation;
+
 /**
  *
- * @author user
+ * @author Mukisa
  */
-public class ProjectileMotionStimulationCourseWork {
+import java.util.Scanner;
 
+public class Java_Projectile_Motion_Simulation {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
@@ -54,3 +55,4 @@ public class ProjectileMotionStimulationCourseWork {
 
         
     
+
